@@ -85,7 +85,7 @@ In this task, there are 12 categories of named entities. These entity categories
 
 Table 1-1 Tagset of Named Entities in Dataset A (*Shiji*)
 
-| Annotation |        Meaning        | Example |
+|   Label    |        Meaning        | Example |
 |:----------:|:---------------------:|---------|
 |     NR     |      person name      | 荆軻      |
 |     NS     | geographical location | 長平      |
@@ -98,7 +98,7 @@ Table 1-1 Tagset of Named Entities in Dataset A (*Shiji*)
 
 Table 1-2 Tagset of Named Entities in Dataset B (*the Twenty-Four Histories*)
 
-| Annotation |         Meaning          | Example |
+|   Label    |         Meaning          | Example |
 |:----------:|:------------------------:|----|
 |     NR     |       person name        | 伏羲 |
 |     NS     |  geographical location   |  黄河 |
@@ -108,7 +108,7 @@ Table 1-2 Tagset of Named Entities in Dataset B (*the Twenty-Four Histories*)
 
 Table 1-3 Tagset of Named Entities in Dataset C (Traditional Chinese Medicine Classics)
 
-| Annotation |         Meaning          | Example |
+|   Label    |         Meaning          | Example |
 |:----------:|:------------------------:|---------|
 | ZD  | Traditional  Chinese Medicine disease | 金疮      |
 | ZZ  | Syndrome                              | 脾胃虚弱    |
